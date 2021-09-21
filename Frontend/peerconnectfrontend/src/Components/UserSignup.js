@@ -126,7 +126,7 @@ function UserSignup() {
                     </div>
                     <div className="col-md-12 mb-1 mt-1">
                       <div className="form-row">
-                        <div className="col-md-10">
+                        <div className="col-md-10 ml-3">
                           <input
                             type="text"
                             className="form-control"
@@ -136,18 +136,21 @@ function UserSignup() {
                       </div>
                     </div>
                     <div className="col-md-12 mb-1 mt-1">
-                      <div className="custom-control custom-radio">
-                        <input type="radio" className="custom-control-input" />
-                        <label className="custom-control-label">Peer</label>
-                      </div>
-                      <div className="custom-control custom-radio">
-                        <input type="radio" className="custom-control-input" />
-                        <label
-                          className="custom-control-label"
-                          for="customRadio2"
-                        >
-                          Mentor
-                        </label>
+                      <div class="form-group row">
+                        <div class="col-sm-10">
+                          <label class="form-check-label" for="gridCheck1">
+                            Are you a Mentor ?
+                          </label>
+                        </div>
+                        <div class="col-sm-2">
+                          <div class="form-check">
+                            <input
+                              class="form-check-input"
+                              type="checkbox"
+                              id="gridCheck1"
+                            />
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -161,7 +164,7 @@ function UserSignup() {
                     </div>
                     <div className="col-md-12 mb-1 mt-1">
                       <div className="form-row">
-                        <div className="col-md-10">
+                        <div className="col-md-10 ml-3">
                           <input
                             type="text"
                             className="form-control"
@@ -171,18 +174,21 @@ function UserSignup() {
                       </div>
                     </div>
                     <div className="col-md-12 mb-1 mt-1">
-                      <div className="custom-control custom-radio">
-                        <input type="radio" className="custom-control-input" />
-                        <label className="custom-control-label">Peer</label>
-                      </div>
-                      <div className="custom-control custom-radio">
-                        <input type="radio" className="custom-control-input" />
-                        <label
-                          className="custom-control-label"
-                          for="customRadio2"
-                        >
-                          Mentor
-                        </label>
+                      <div class="form-group row">
+                        <div class="col-sm-10">
+                          <label class="form-check-label" for="gridCheck1">
+                            Are you a Mentor ?
+                          </label>
+                        </div>
+                        <div class="col-sm-2">
+                          <div class="form-check">
+                            <input
+                              class="form-check-input"
+                              type="checkbox"
+                              id="gridCheck1"
+                            />
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -196,7 +202,7 @@ function UserSignup() {
                     </div>
                     <div className="col-md-12 mb-1 mt-1">
                       <div className="form-row">
-                        <div className="col-md-10">
+                        <div className="col-md-10 ml-3">
                           <input
                             type="text"
                             className="form-control"
@@ -206,18 +212,21 @@ function UserSignup() {
                       </div>
                     </div>
                     <div className="col-md-12 mb-1 mt-1">
-                      <div className="custom-control custom-radio">
-                        <input type="radio" className="custom-control-input" />
-                        <label className="custom-control-label">Peer</label>
-                      </div>
-                      <div className="custom-control custom-radio">
-                        <input type="radio" className="custom-control-input" />
-                        <label
-                          className="custom-control-label"
-                          for="customRadio2"
-                        >
-                          Mentor
-                        </label>
+                      <div class="form-group row">
+                        <div class="col-sm-10">
+                          <label class="form-check-label" for="gridCheck1">
+                            Are you a Mentor ?
+                          </label>
+                        </div>
+                        <div class="col-sm-2">
+                          <div class="form-check">
+                            <input
+                              class="form-check-input"
+                              type="checkbox"
+                              id="gridCheck1"
+                            />
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
