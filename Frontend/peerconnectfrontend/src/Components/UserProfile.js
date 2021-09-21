@@ -55,6 +55,37 @@ function UserProfile() {
           </div>
         </div>
       </div>
+      <hr />
+      <div className="row">
+        <div className="col-md-5 text-center" style={{ border: "1px solid" }}>
+          <div className="row">
+            <div className="col-md-12">
+              <strong>
+                <u>Skills</u>
+              </strong>
+            </div>
+            <hr></hr>
+            <div className="col-md-12">
+              <div className="row">
+                <div className="col-md-6">#1</div>
+                <div className="col-md-6">Skill 1</div>
+              </div>
+            </div>
+            <div className="col-md-12">
+              <div className="row">
+                <div className="col-md-6">#2</div>
+                <div className="col-md-6">Skill 2</div>
+              </div>
+            </div>
+            <div className="col-md-12">
+              <div className="row">
+                <div className="col-md-6">#3</div>
+                <div className="col-md-6">Skill 3</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

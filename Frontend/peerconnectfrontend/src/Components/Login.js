@@ -5,7 +5,7 @@ function Login() {
   const [username, setUsername] = useState();
   const [password, setPassword] = useState();
   return (
-    <div className="container-fluid" style={{ border: "1px solid" }}>
+    <div className="container">
       <div className="row">
         <div className="col-md-8">
           <div className="col-12 d-flex justify-content-center align-self-center">
@@ -21,7 +21,7 @@ function Login() {
           </div>
           <div className="col-12 d-flex justify-content-center align-self-center">
             <p>
-              <em>Perfect Place To Find Mentors And Peers</em>
+              <em>Perfect Place To Connect Peers With Mentor</em>
             </p>
           </div>
         </div>
