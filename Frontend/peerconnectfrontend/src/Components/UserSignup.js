@@ -5,11 +5,21 @@ function UserSignup() {
     <div className="container">
       <div className="row">
         <div className="col-md-12 text-center">
-          <h2 className="display-2">
-            <u>Signup</u>
-          </h2>
+          <h1
+            className="display-1"
+            style={{
+              color: "#008ad3",
+            }}
+          >
+            <u>Peer-Connect</u>
+          </h1>
         </div>
         <div className="col-md-12 container shadow-lg mt-5 p-3 mb-5 bg-white rounded">
+          <div className="d-flex justify-content-center mb-5 mt-2">
+            <h3 className="display-3">
+              <u>Signup</u>
+            </h3>
+          </div>
           <form>
             <div className="form-group row">
               <div className="col-md-6">
